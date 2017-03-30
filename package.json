@@ -1,0 +1,32 @@
+{
+  "name": "qmaker",
+  "description": "SQL Query Builder",
+  "version": "0.0.1-dev",
+  "contributors": [
+    {
+      "name": "Steeve vandecappelle"
+    }
+  ],
+  "author": "Steeve Vandecappelle <me@mizore.fr>",
+  "repository": {
+    "url": "git@github.com:svandecappelle/node-qmaker.git",
+    "type": "git"
+  },
+  "nodejs": true,
+  "keywords": [
+    "sql"
+  ],
+  "engines": {
+    "node": ">=5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/svandecappelle/node-qmaker/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "string": "~1.7.0",
+    "underscore": "*"
+  }
+}
